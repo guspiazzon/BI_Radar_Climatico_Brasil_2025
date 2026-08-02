@@ -21,9 +21,10 @@ O objetivo deste painel é transformar microdados brutos das estações meteorol
 
 ## 📸 2. Visão do Dashboard
 
-![Painel Climático 2025]
+[Painel Climático 2025]
 
-<img width="1432" height="805" alt="image" src="https://github.com/user-attachments/assets/e6a9aea9-590b-4550-9f3a-14905fdaecd0" />
+<img width="1430" height="801" alt="image" src="https://github.com/user-attachments/assets/9469e071-b01b-4a03-9764-14c5d67f5f8c" />
+
 
 
 ---

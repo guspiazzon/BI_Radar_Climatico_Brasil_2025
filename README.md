@@ -13,9 +13,9 @@ Um painel climático realizado no Power BI com dados extraídos do Inmet sobre a
 O ano de 2025 registrou episódios climáticos atípicos em diversas regiões do Brasil. A variação extrema de temperatura afeta diretamente setores como **energia, agricultura, logística e saúde pública**.
 
 O objetivo deste painel é transformar microdados brutos das estações meteorológicas em um **painel executivo de rápida leitura**, permitindo responder a três perguntas centrais:
-1. Quais foram as **temperaturas máximas e mínimas absolutas** registradas no país em 2025?
-2. Quais cidades apresentaram os **rankings mais quentes e mais frios** do ano?
-3. Quais locais sofreram a **maior amplitude térmica no mesmo dia** (variação brusca de temperatura)?
+1. Quais foram as **temperaturas máximas e mínimas absolutas** registradas no país em 2025 no geral e por região?
+2. Quais cidades apresentaram os **rankings mais quentes e mais frios** do ano por região?
+3. Quais locais sofreram a **maior amplitude térmica no mesmo dia** (variação brusca de temperatura) por região?
 
 ---
 
@@ -23,7 +23,9 @@ O objetivo deste painel é transformar microdados brutos das estações meteorol
 
 [Painel Climático 2025]
 
-<img width="1430" height="801" alt="image" src="https://github.com/user-attachments/assets/9469e071-b01b-4a03-9764-14c5d67f5f8c" />
+<img width="1448" height="811" alt="image" src="https://github.com/user-attachments/assets/2c3e23af-26c1-4246-a46a-e831678c006a" />
+
+
 
 
 
